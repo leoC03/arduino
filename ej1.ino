@@ -1,6 +1,7 @@
 void setup()
 
 // esto define cada la funcion de cada pin como entrada o salida
+  //alfon crack
 {
   pinMode(4, INPUT);
   pinMode(2, OUTPUT);
